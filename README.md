@@ -1,4 +1,3 @@
-## Hi there 👋
 ![me](https://github.com/user-attachments/assets/42ffaa9a-45f5-4adf-babe-92a5efbb04b2)
 
 <h1 align="center">
@@ -19,7 +18,7 @@
 
 ⚡ Interests ans hobies **Read, Play guitar, Exercise, Personal Study, Learn more skills ... **
 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center">⚒️ Languages-Tools ⚒️</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,tailwind,git," /><br>
