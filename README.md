@@ -1,5 +1,3 @@
-![me](https://github.com/user-attachments/assets/42ffaa9a-45f5-4adf-babe-92a5efbb04b2)
-
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;សួរស្តី+I'm+Kanh+Chana!;" />
 </h1>
