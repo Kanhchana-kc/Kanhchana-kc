@@ -1,7 +1,7 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;សួរស្តី+I'm+Kanh+Chana!;" />
 </h1>
-<div align="center"> <img src=""> </div>
+<!-- <div align="center"> <img src=""> </div> -->
 <h3 align="center"> I am a Student Computer Science at the National Polytechnic Institute of Cambodia </h3>
 
 <br/>
@@ -20,7 +20,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,tailwind,git," /><br>
-    <img src="https://skillicons.dev/icons?i=javascript,nodejs,php,laravel,mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=javascript,php,laravel,mysql" /><br>
 </div>
 
 <br/>
