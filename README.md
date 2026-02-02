@@ -89,11 +89,18 @@ Figma · Adobe XD · Sketch · Canva
 
 <!-- Frontend Development -->
 
-<b>Frontend</b><br/>
-HTML · CSS · JavaScript · Tailwind CSS · Bootstrap · React · Vue
-<br/>
-<img src="https://skillicons.dev/icons?i=html,css,javascript,react,vue,tailwind,bootstrap" width="80" style="vertical-align: middle;" />
-<br/><br/>
+<!-- Frontend Development -->
+<div align="center">
+  <b>Frontend</b><br/>
+  <img src="https://skillicons.dev/icons?i=html" width="50" style="margin:5px;" />
+  <img src="https://skillicons.dev/icons?i=css" width="50" style="margin:5px;" />
+  <img src="https://skillicons.dev/icons?i=javascript" width="50" style="margin:5px;" />
+  <img src="https://skillicons.dev/icons?i=react" width="50" style="margin:5px;" />
+  <img src="https://skillicons.dev/icons?i=vue" width="50" style="margin:5px;" />
+  <img src="https://skillicons.dev/icons?i=tailwind" width="50" style="margin:5px;" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" width="50" style="margin:5px;" />
+</div>
+
 
 <!-- Backend Development -->
 
