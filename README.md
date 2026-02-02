@@ -39,7 +39,7 @@ Focused on UI/UX Design & Frontend Web Development
 <!-- UI/UX Design -->
 <div align="center">
 <img src="https://skillicons.dev/icons?i=figma" width="60" style="margin:5px;" />
-<img src="https://logo.svgcdn.com/l/framer.svg" width="30" style="margin:5px;" alt="Framer Logo"/>
+<img src="https://logo.svgcdn.com/l/framer.svg" width="30" style="margin:10px;" alt="Framer Logo"/>
 <img src="https://skillicons.dev/icons?i=sketch" width="60" style="margin:5px;" />
 <img src="https://skillicons.dev/icons?i=xd" width="60" style="margin:5px;" />
 
