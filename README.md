@@ -38,10 +38,13 @@ Focused on UI/UX Design & Frontend Web Development
 
 <!-- UI/UX Design -->
 <div align="center">
-<img src="https://skillicons.dev/icons?i=figma,xd,sketch,canva" width="60" style="margin:8px;" />
+  <img src="https://skillicons.dev/icons?i=figma" width="60" style="margin:5px;" />
+<img src="https://skillicons.dev/icons?i=sketch" width="60" style="margin:5px;" />
+<img src="https://skillicons.dev/icons?i=xd" width="60" style="margin:5px;" />
+<img src="https://skillicons.dev/icons?i=framer" width="60" style="margin:5px;" />
 <br/>
 <b>UI/UX Design Tools</b><br/>
-Figma · Adobe XD · Sketch 
+Figma ·Framer· Adobe XD · Sketch 
 </div>
 <br/>
 
