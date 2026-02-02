@@ -1,7 +1,9 @@
+<!-- Profile Image -->
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/42ffaa9a-45f5-4adf-babe-92a5efbb04b2" width="220"/>
+  <img src="https://raw.githubusercontent.com/Kanhchana-kc/RepoName/main/assets/profile.png" width="220"/>
 </div>
 
+<!-- Typing Effect -->
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;សួរស្តី+I'm+Kanh+Chana!;" />
 </h1>
@@ -36,48 +38,59 @@ Focused on UI/UX Design & Frontend Web Development
 
 <!-- UI/UX Design -->
 <div align="center">
-<img src="https://skillicons.dev/icons?i=figma" width="60" style="margin:8px;" />
-<img src="https://skillicons.dev/icons?i=xd" width="60" style="margin:8px;" />
-<img src="https://skillicons.dev/icons?i=sketch" width="60" style="margin:8px;" />
-<img src="https://skillicons.dev/icons?i=canva" width="60" style="margin:8px;" />
+<img src="https://skillicons.dev/icons?i=figma,xd,sketch,canva" width="60" style="margin:8px;" />
 <br/>
 <b>UI/UX Design Tools</b><br/>
-Figma · Adobe XD · Sketch · Canva
+Figma · Adobe XD · Sketch 
+</div>
+<br/>
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=figma" width="60" style="margin:8px;" />
+<br/>
+<b>UI/UX Design</b><br/>
+User-centered design · Wireframing & Prototyping · Visual design · Typography · Color theory · Usability basics
 </div>
 <br/>
 
 <!-- Frontend Development -->
 <div align="center">
-<img src="https://skillicons.dev/icons?i=html,css,javascript,react,vue,tailwind,bootstrap" width="60" style="margin:8px;" />
-<br/>
 <b>Frontend</b><br/>
+<img src="https://skillicons.dev/icons?i=html" width="60" style="margin:5px;" />
+<img src="https://skillicons.dev/icons?i=css" width="60" style="margin:5px;" />
+<img src="https://skillicons.dev/icons?i=javascript" width="60" style="margin:5px;" />
+<img src="https://skillicons.dev/icons?i=react" width="60" style="margin:5px;" />
+<img src="https://skillicons.dev/icons?i=vue" width="60" style="margin:5px;" />
+<img src="https://skillicons.dev/icons?i=tailwind" width="60" style="margin:5px;" />
+<img src="https://skillicons.dev/icons?i=bootstrap" width="60" style="margin:5px;" />
+<br/>
 HTML · CSS · JavaScript · React · Vue · Tailwind CSS · Bootstrap
 </div>
 <br/>
 
 <!-- Backend Development -->
 <div align="center">
-<img src="https://skillicons.dev/icons?i=php,laravel,mysql" width="60" style="margin:8px;" />
-<br/>
 <b>Backend</b><br/>
+<img src="https://skillicons.dev/icons?i=php,laravel,mysql" width="60" style="margin:5px;" />
+<br/>
 PHP · Laravel · MySQL
 </div>
 <br/>
 
 <!-- Mobile Development -->
 <div align="center">
-<img src="https://skillicons.dev/icons?i=react,flutter" width="60" style="margin:8px;" />
-<br/>
 <b>Mobile (Basic)</b><br/>
+<img src="https://skillicons.dev/icons?i=react,flutter" width="60" style="margin:5px;" />
+<br/>
 React Native · Flutter
 </div>
 <br/>
 
 <!-- Tools -->
 <div align="center">
-<img src="https://skillicons.dev/icons?i=vscode,git,github" width="60" style="margin:8px;" />
-<br/>
 <b>Tools</b><br/>
+<img src="https://skillicons.dev/icons?i=vscode,git,github" width="60" style="margin:5px;" />
+<br/>
 VS Code · Git · GitHub
 </div>
 <br/>
