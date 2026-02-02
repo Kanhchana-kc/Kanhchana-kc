@@ -1,6 +1,6 @@
 <!-- Profile Image -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Kanhchana-kc/RepoName/main/assets/profile.png" width="220"/>
+  <img src="https://github.com/user-attachments/assets/42ffaa9a-45f5-4adf-babe-92a5efbb04b2" width="220"/>
 </div>
 
 <!-- Typing Effect -->
