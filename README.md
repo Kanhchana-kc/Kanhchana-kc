@@ -39,7 +39,9 @@ Focused on UI/UX Design & Frontend Web Development
 <div align="center">
 
 <!-- UI/UX Design -->
-🎨 <b>UI/UX Design</b><br/>
+<!-- UI/UX Design -->
+<img src="https://skillicons.dev/icons?i=figma" width="40" style="vertical-align: middle;" />
+<b>UI/UX Design</b><br/>
 User-centered design · Wireframing & Prototyping (Figma) ·  
 Visual design · Typography · Color theory · Usability basics
 
