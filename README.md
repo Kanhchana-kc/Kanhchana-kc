@@ -72,6 +72,9 @@ HTML · CSS · JavaScript · React · Vue · Tailwind CSS · Bootstrap
 <div align="center">
 <b>Backend</b><br/>
 <img src="https://skillicons.dev/icons?i=php,laravel,mysql" width="60" style="margin:5px;" />
+  <img src="https://skillicons.dev/icons?i=php" width="60" style="margin:5px;" />
+<img src="https://skillicons.dev/icons?i=laravel" width="60" style="margin:5px;" />
+<img src="https://skillicons.dev/icons?i=mysql" width="60" style="margin:5px;" />
 <br/>
 PHP · Laravel · MySQL
 </div>
