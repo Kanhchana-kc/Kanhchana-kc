@@ -1,5 +1,9 @@
-<img src="https://github.com/user-attachments/assets/42ffaa9a-45f5-4adf-babe-92a5efbb04b2"/>
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;សួរស្តី+I'm+Kanh+Chana!;" />
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/42ffaa9a-45f5-4adf-babe-92a5efbb04b2" width="120"/>
+</div>
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;សួរស្តី+I'm+Kanh+Chana!;" />
 </h1>
 
 <h3 align="center">
@@ -10,20 +14,23 @@ Focused on UI/UX Design & Frontend Web Development
 <br/>
 
 <div align="center">
- 
- 🎨 **UI/UX Designer & Frontend Developer**
- 
- 🌱 Currently learning **UI/UX design principles, user research, wireframing, prototyping, and frontend frameworks (React, Vue, Nuxt, Laravel)**
 
- 💬 Ask me about **UI/UX design, Figma, frontend development, React, or anything [here is me](https://github.com/Kanhchana-kc)**
+🎨 <b>UI/UX Designer & Frontend Developer</b><br/><br/>
 
- ⚡ Interests & hobbies: **UI design exploration, reading, playing guitar, exercise, self-study, and learning new skills**
- 
+🌱 Currently learning <b>UI/UX design principles, user research, wireframing, prototyping, and frontend frameworks</b><br/>
+(React, Vue, Nuxt, Laravel)
+
+<br/><br/>
+
+💬 Ask me about <b>UI/UX design, Figma, frontend development, React</b> or anything  
+<a href="https://github.com/Kanhchana-kc">here is me</a>
+
+<br/><br/>
+
+⚡ Interests & hobbies: <b>UI design exploration, reading, playing guitar, exercise, self-study, and learning new skills</b>
+
 </div>
 
-<br/>
-
-<h2 align="center">⚒️ UI/UX & Development Tools ⚒️</h2>
 <br/>
 
 <h2 align="center">💡 My Knowledge & Skills</h2>
@@ -31,12 +38,12 @@ Focused on UI/UX Design & Frontend Web Development
 
 <div align="center">
 
+<!-- UI/UX Design -->
 🎨 <b>UI/UX Design</b><br/>
-User-centered design · Wireframing & Prototyping (Figma) ·
+User-centered design · Wireframing & Prototyping (Figma) ·  
 Visual design · Typography · Color theory · Usability basics
-<br/><br/>
 
-💻 <div align="center">
+<br/><br/>
 
 <!-- UI/UX & Frontend -->
 <img src="https://skillicons.dev/icons?i=figma,html,css,tailwind,bootstrap,javascript,react,vue" />
@@ -54,7 +61,7 @@ PHP · Laravel · MySQL
 
 <br/><br/>
 
-<!-- Mobile (Basic) -->
+<!-- Mobile -->
 <img src="https://skillicons.dev/icons?i=react,flutter" />
 <br/>
 <b>Mobile (Basic)</b><br/>
@@ -68,25 +75,12 @@ React Native · Flutter
 <b>Tools</b><br/>
 VS Code · Git · GitHub
 
-</div>
-
-
-<br/><br/>
-
-🛠 <b>Tools & Technologies</b><br/>
-Figma · VS Code · Git · GitHub ·
-PHP · Laravel · MySQL
-
 <br/><br/>
 
 📈 <b>Soft Skills</b><br/>
-Problem-solving · Attention to detail ·
-Teamwork · Communication · Continuous learning
+Problem-solving · Attention to detail · Teamwork · Communication · Continuous learning
 
 </div>
-
-<br/>
-<hr/>
 
 <br/>
 <hr/>
