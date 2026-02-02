@@ -63,43 +63,54 @@ Focused on UI/UX Design & Frontend Web Development
   <b>Canva</b> · Quick UI Mockups & Graphics
 </div>
 
-
-<!-- UI/UX & Frontend -->
-<img src="https://skillicons.dev/icons?i=figma,html,css,tailwind,bootstrap,javascript,react,vue" />
+<h2 align="center">💡 My Knowledge & Skills</h2>
 <br/>
-<b>UI/UX & Frontend</b><br/>
-Figma · HTML · CSS · JavaScript · Tailwind CSS · Bootstrap · React · Vue
 
+<div align="center">
+
+<!-- UI/UX Design -->
+<img src="https://skillicons.dev/icons?i=figma" width="40" style="vertical-align: middle;" />
+<b>UI/UX Design</b><br/>
+User-centered design · Wireframing & Prototyping (Figma) · Visual design · Typography · Color theory · Usability basics
 <br/><br/>
 
-<!-- Backend -->
-<img src="https://skillicons.dev/icons?i=php,laravel,mysql" />
+<!-- UI/UX Design Tools -->
+<h3>🎨 UI/UX Design Tools</h3>
+<img src="https://skillicons.dev/icons?i=figma,xd,sketch,canva" />
 <br/>
+Figma · Adobe XD · Sketch · Canva
+<br/><br/>
+
+<!-- Frontend Development -->
+<img src="https://skillicons.dev/icons?i=html,css,javascript,react,vue,tailwind,bootstrap" width="40" style="vertical-align: middle;" />
+<b>Frontend</b><br/>
+HTML · CSS · JavaScript · Tailwind CSS · Bootstrap · React · Vue
+<br/><br/>
+
+<!-- Backend Development -->
+<img src="https://skillicons.dev/icons?i=php,laravel,mysql" width="40" style="vertical-align: middle;" />
 <b>Backend</b><br/>
 PHP · Laravel · MySQL
-
 <br/><br/>
 
-<!-- Mobile -->
-<img src="https://skillicons.dev/icons?i=react,flutter" />
-<br/>
+<!-- Mobile Development -->
+<img src="https://skillicons.dev/icons?i=react,flutter" width="40" style="vertical-align: middle;" />
 <b>Mobile (Basic)</b><br/>
 React Native · Flutter
-
 <br/><br/>
 
 <!-- Tools -->
-<img src="https://skillicons.dev/icons?i=vscode,git,github" />
-<br/>
+<img src="https://skillicons.dev/icons?i=vscode,git,github" width="40" style="vertical-align: middle;" />
 <b>Tools</b><br/>
 VS Code · Git · GitHub
-
 <br/><br/>
 
+<!-- Soft Skills -->
 📈 <b>Soft Skills</b><br/>
 Problem-solving · Attention to detail · Teamwork · Communication · Continuous learning
 
 </div>
+
 
 <br/>
 <hr/>
