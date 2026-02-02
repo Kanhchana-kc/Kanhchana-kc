@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/42ffaa9a-45f5-4adf-babe-92a5efbb04b2" width="120"/>
+  <img src="https://github.com/user-attachments/assets/42ffaa9a-45f5-4adf-babe-92a5efbb04b2" width="220"/>
 </div>
 
 <h1 align="center">
@@ -100,9 +100,10 @@ React Native · Flutter
 <br/><br/>
 
 <!-- Tools -->
-<img src="https://skillicons.dev/icons?i=vscode,git,github" width="40" style="vertical-align: middle;" />
+
 <b>Tools</b><br/>
 VS Code · Git · GitHub
+<img src="https://skillicons.dev/icons?i=vscode,git,github" width="80" style="vertical-align: middle;" />
 <br/><br/>
 
 <!-- Soft Skills -->
