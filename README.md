@@ -71,8 +71,8 @@ HTML · CSS · JavaScript · React · Vue · Tailwind CSS · Bootstrap
 <!-- Backend Development -->
 <div align="center">
 <b>Backend</b><br/>
-<img src="https://skillicons.dev/icons?i=php,laravel,mysql" width="60" style="margin:5px;" />
-  <img src="https://skillicons.dev/icons?i=php" width="60" style="margin:5px;" />
+
+<img src="https://skillicons.dev/icons?i=php" width="60" style="margin:5px;" />
 <img src="https://skillicons.dev/icons?i=laravel" width="60" style="margin:5px;" />
 <img src="https://skillicons.dev/icons?i=mysql" width="60" style="margin:5px;" />
 <br/>
@@ -83,7 +83,9 @@ PHP · Laravel · MySQL
 <!-- Mobile Development -->
 <div align="center">
 <b>Mobile (Basic)</b><br/>
-<img src="https://skillicons.dev/icons?i=react,flutter" width="60" style="margin:5px;" />
+<img src="https://skillicons.dev/icons?i=react" width="60" style="margin:5px;" />
+<img src="https://skillicons.dev/icons?i=flutter" width="60" style="margin:5px;" />
+
 <br/>
 React Native · Flutter
 </div>
@@ -92,7 +94,10 @@ React Native · Flutter
 <!-- Tools -->
 <div align="center">
 <b>Tools</b><br/>
-<img src="https://skillicons.dev/icons?i=vscode,git,github" width="60" style="margin:5px;" />
+<img src="https://skillicons.dev/icons?i=vscode" width="60" style="margin:5px;" />
+<img src="https://skillicons.dev/icons?i=git" width="60" style="margin:5px;" />
+<img src="https://skillicons.dev/icons?i=github" width="60" style="margin:5px;" />
+
 <br/>
 VS Code · Git · GitHub
 </div>
