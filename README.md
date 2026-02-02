@@ -38,13 +38,31 @@ Focused on UI/UX Design & Frontend Web Development
 
 <div align="center">
 
-<!-- UI/UX Design -->
-<!-- UI/UX Design -->
-<img src="https://skillicons.dev/icons?i=figma" width="40" style="vertical-align: middle;" />
-🎨 <b>UI/UX Design</b><br/>
-User-centered design · Wireframing & Prototyping (Figma) ·  
-Visual design · Typography · Color theory · Usability basics
-<br/><br/>
+<!-- UI/UX Design Tools -->
+<h2 align="center">🎨 UI/UX Design Tools</h2>
+<br/>
+
+<div align="center">
+  <!-- Figma -->
+  <img src="https://skillicons.dev/icons?i=figma" width="40" style="vertical-align: middle;" /> 
+  <b>Figma</b> · Wireframing & Prototyping
+  <br/><br/>
+
+  <!-- Adobe XD -->
+  <img src="https://skillicons.dev/icons?i=xd" width="40" style="vertical-align: middle;" /> 
+  <b>Adobe XD</b> · UI/UX Design & Prototyping
+  <br/><br/>
+
+  <!-- Sketch -->
+  <img src="https://skillicons.dev/icons?i=sketch" width="40" style="vertical-align: middle;" /> 
+  <b>Sketch</b> · Visual Design & Layouts
+  <br/><br/>
+
+  <!-- Canva (optional) -->
+  <img src="https://skillicons.dev/icons?i=canva" width="40" style="vertical-align: middle;" /> 
+  <b>Canva</b> · Quick UI Mockups & Graphics
+</div>
+
 
 <!-- UI/UX & Frontend -->
 <img src="https://skillicons.dev/icons?i=figma,html,css,tailwind,bootstrap,javascript,react,vue" />
