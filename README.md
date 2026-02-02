@@ -14,7 +14,6 @@ Focused on UI/UX Design & Frontend Web Development
 <br/>
 
 <div align="center">
-
 🎨 <b>UI/UX Designer & Frontend Developer</b><br/><br/>
 
 🌱 Currently learning <b>UI/UX design principles, user research, wireframing, prototyping, and frontend frameworks</b><br/>
@@ -28,110 +27,74 @@ Focused on UI/UX Design & Frontend Web Development
 <br/><br/>
 
 ⚡ Interests & hobbies: <b>UI design exploration, reading, playing guitar, exercise, self-study, and learning new skills</b>
-
 </div>
 
 <br/>
 
 <h2 align="center">💡 My Knowledge & Skills</h2>
 <br/>
-
-<div align="center">
-
-<!-- UI/UX Design Tools -->
-<h2 align="center">🎨 UI/UX Design Tools</h2>
-<br/>
-
-<div align="center">
-  <!-- Figma -->
-  <img src="https://skillicons.dev/icons?i=figma" width="80" style="vertical-align: middle;" /> 
-  <br/>
-  <b>Figma</b> · Wireframing & Prototyping
-  <br/><br/>
-
-  <!-- Adobe XD -->
-  <img src="https://skillicons.dev/icons?i=xd" width="80" style="vertical-align: middle;" /> 
-  <br/>
-  <b>Adobe XD</b> · UI/UX Design & Prototyping
-  <br/><br/>
-
-  <!-- Sketch -->
-  <img src="https://skillicons.dev/icons?i=sketch" width="80" style="vertical-align: middle;" /> 
-  <br/>
-  <b>Sketch</b> · Visual Design & Layouts
-  <br/><br/>
-
-  <!-- Canva (optional) -->
-  <img src="https://skillicons.dev/icons?i=canva" width="80" style="vertical-align: middle;" /> 
-  <br/>
-  <b>Canva</b> · Quick UI Mockups & Graphics
-</div>
-
-<h2 align="center">💡 My Knowledge & Skills</h2>
-<br/>
-
-<div align="center">
 
 <!-- UI/UX Design -->
-<img src="https://skillicons.dev/icons?i=figma" width="80" style="vertical-align: middle;" />
+<div align="center">
+<img src="https://skillicons.dev/icons?i=figma" width="60" style="margin:8px;" />
+<img src="https://skillicons.dev/icons?i=xd" width="60" style="margin:8px;" />
+<img src="https://skillicons.dev/icons?i=sketch" width="60" style="margin:8px;" />
+<img src="https://skillicons.dev/icons?i=canva" width="60" style="margin:8px;" />
 <br/>
-<b>UI/UX Design</b><br/>
-User-centered design · Wireframing & Prototyping (Figma) · Visual design · Typography · Color theory · Usability basics
-<br/><br/>
-
-<!-- UI/UX Design Tools -->
-<h3>🎨 UI/UX Design Tools</h3>
-<br/>
-<img src="https://skillicons.dev/icons?i=figma,xd,sketch,canva" />
-<br/>
+<b>UI/UX Design Tools</b><br/>
 Figma · Adobe XD · Sketch · Canva
-<br/><br/>
-
-<!-- Frontend Development -->
+</div>
+<br/>
 
 <!-- Frontend Development -->
 <div align="center">
-  <b>Frontend</b><br/>
-  <img src="https://skillicons.dev/icons?i=html" width="50" style="margin:5px;" />
-  <img src="https://skillicons.dev/icons?i=css" width="50" style="margin:5px;" />
-  <img src="https://skillicons.dev/icons?i=javascript" width="50" style="margin:5px;" />
-  <img src="https://skillicons.dev/icons?i=react" width="50" style="margin:5px;" />
-  <img src="https://skillicons.dev/icons?i=vue" width="50" style="margin:5px;" />
-  <img src="https://skillicons.dev/icons?i=tailwind" width="50" style="margin:5px;" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" width="50" style="margin:5px;" />
+<img src="https://skillicons.dev/icons?i=html,css,javascript,react,vue,tailwind,bootstrap" width="60" style="margin:8px;" />
+<br/>
+<b>Frontend</b><br/>
+HTML · CSS · JavaScript · React · Vue · Tailwind CSS · Bootstrap
 </div>
-
+<br/>
 
 <!-- Backend Development -->
-
+<div align="center">
+<img src="https://skillicons.dev/icons?i=php,laravel,mysql" width="60" style="margin:8px;" />
+<br/>
 <b>Backend</b><br/>
 PHP · Laravel · MySQL
+</div>
 <br/>
-<img src="https://skillicons.dev/icons?i=php,laravel,mysql" width="80" style="vertical-align: middle;" />
-<br/><br/>
 
 <!-- Mobile Development -->
-
+<div align="center">
+<img src="https://skillicons.dev/icons?i=react,flutter" width="60" style="margin:8px;" />
+<br/>
 <b>Mobile (Basic)</b><br/>
 React Native · Flutter
+</div>
 <br/>
-<img src="https://skillicons.dev/icons?i=react,flutter" width="80" style="vertical-align: middle;" />
-<br/><br/>
 
 <!-- Tools -->
-
-<b>Tools</b><br/>
-VS Code · Git · GitHub 
+<div align="center">
+<img src="https://skillicons.dev/icons?i=vscode,git,github" width="60" style="margin:8px;" />
 <br/>
-<img src="https://skillicons.dev/icons?i=vscode,git,github" width="80" style="vertical-align: middle;" />
-<br/><br/>
+<b>Tools</b><br/>
+VS Code · Git · GitHub
+</div>
+<br/>
 
 <!-- Soft Skills -->
+<div align="center">
 📈 <b>Soft Skills</b><br/>
 Problem-solving · Attention to detail · Teamwork · Communication · Continuous learning
-
 </div>
-
 
 <br/>
 <hr/>
+
+<!-- Optional CSS hover motion -->
+<style>
+  img:hover {
+    transform: scale(1.2);
+    transition: transform 0.3s ease;
+  }
+</style>
