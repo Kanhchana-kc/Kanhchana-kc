@@ -1,4 +1,4 @@
-<img width="1440" height="720" alt="image" src="https://github.com/user-attachments/assets/bdf0680b-d08d-4fee-804f-3219b22c0994" /><h1 align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;សួរស្តី+I'm+Kanh+Chana!;" />
 </h1>
 
