@@ -70,39 +70,48 @@ Focused on UI/UX Design & Frontend Web Development
 
 <!-- UI/UX Design -->
 <img src="https://skillicons.dev/icons?i=figma" width="40" style="vertical-align: middle;" />
+<br/>
 <b>UI/UX Design</b><br/>
 User-centered design · Wireframing & Prototyping (Figma) · Visual design · Typography · Color theory · Usability basics
 <br/><br/>
 
 <!-- UI/UX Design Tools -->
 <h3>🎨 UI/UX Design Tools</h3>
+<br/>
 <img src="https://skillicons.dev/icons?i=figma,xd,sketch,canva" />
 <br/>
 Figma · Adobe XD · Sketch · Canva
 <br/><br/>
 
 <!-- Frontend Development -->
-<img src="https://skillicons.dev/icons?i=html,css,javascript,react,vue,tailwind,bootstrap" width="40" style="vertical-align: middle;" />
+
 <b>Frontend</b><br/>
 HTML · CSS · JavaScript · Tailwind CSS · Bootstrap · React · Vue
+<br/>
+<img src="https://skillicons.dev/icons?i=html,css,javascript,react,vue,tailwind,bootstrap" width="80" style="vertical-align: middle;" />
 <br/><br/>
 
 <!-- Backend Development -->
-<img src="https://skillicons.dev/icons?i=php,laravel,mysql" width="40" style="vertical-align: middle;" />
+
 <b>Backend</b><br/>
 PHP · Laravel · MySQL
+<br/>
+<img src="https://skillicons.dev/icons?i=php,laravel,mysql" width="80" style="vertical-align: middle;" />
 <br/><br/>
 
 <!-- Mobile Development -->
-<img src="https://skillicons.dev/icons?i=react,flutter" width="40" style="vertical-align: middle;" />
+
 <b>Mobile (Basic)</b><br/>
 React Native · Flutter
+<br/>
+<img src="https://skillicons.dev/icons?i=react,flutter" width="80" style="vertical-align: middle;" />
 <br/><br/>
 
 <!-- Tools -->
 
 <b>Tools</b><br/>
-VS Code · Git · GitHub
+VS Code · Git · GitHub 
+<br/>
 <img src="https://skillicons.dev/icons?i=vscode,git,github" width="80" style="vertical-align: middle;" />
 <br/><br/>
 
