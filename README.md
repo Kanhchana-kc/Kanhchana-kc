@@ -44,22 +44,26 @@ Focused on UI/UX Design & Frontend Web Development
 
 <div align="center">
   <!-- Figma -->
-  <img src="https://skillicons.dev/icons?i=figma" width="40" style="vertical-align: middle;" /> 
+  <img src="https://skillicons.dev/icons?i=figma" width="80" style="vertical-align: middle;" /> 
+  <br/>
   <b>Figma</b> · Wireframing & Prototyping
   <br/><br/>
 
   <!-- Adobe XD -->
-  <img src="https://skillicons.dev/icons?i=xd" width="40" style="vertical-align: middle;" /> 
+  <img src="https://skillicons.dev/icons?i=xd" width="80" style="vertical-align: middle;" /> 
+  <br/>
   <b>Adobe XD</b> · UI/UX Design & Prototyping
   <br/><br/>
 
   <!-- Sketch -->
-  <img src="https://skillicons.dev/icons?i=sketch" width="40" style="vertical-align: middle;" /> 
+  <img src="https://skillicons.dev/icons?i=sketch" width="80" style="vertical-align: middle;" /> 
+  <br/>
   <b>Sketch</b> · Visual Design & Layouts
   <br/><br/>
 
   <!-- Canva (optional) -->
-  <img src="https://skillicons.dev/icons?i=canva" width="40" style="vertical-align: middle;" /> 
+  <img src="https://skillicons.dev/icons?i=canva" width="80" style="vertical-align: middle;" /> 
+  <br/>
   <b>Canva</b> · Quick UI Mockups & Graphics
 </div>
 
@@ -69,7 +73,7 @@ Focused on UI/UX Design & Frontend Web Development
 <div align="center">
 
 <!-- UI/UX Design -->
-<img src="https://skillicons.dev/icons?i=figma" width="40" style="vertical-align: middle;" />
+<img src="https://skillicons.dev/icons?i=figma" width="80" style="vertical-align: middle;" />
 <br/>
 <b>UI/UX Design</b><br/>
 User-centered design · Wireframing & Prototyping (Figma) · Visual design · Typography · Color theory · Usability basics
