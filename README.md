@@ -1,4 +1,4 @@
-<h1 align="center">
+<img width="1440" height="720" alt="image" src="https://github.com/user-attachments/assets/bdf0680b-d08d-4fee-804f-3219b22c0994" /><h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;សួរស្តី+I'm+Kanh+Chana!;" />
 </h1>
 
@@ -26,10 +26,6 @@ Focused on UI/UX Design & Frontend Web Development
 <h2 align="center">⚒️ UI/UX & Development Tools ⚒️</h2>
 <br/>
 
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=figma,html,css,tailwind,bootstrap,react,vue,vscode,git,github" /><br>
-    <img src="https://skillicons.dev/icons?i=javascript,php,laravel,mysql" />
-</div>
 <h2 align="center">💡 My Knowledge & Skills</h2>
 <br/>
 
@@ -38,12 +34,42 @@ Focused on UI/UX Design & Frontend Web Development
 🎨 <b>UI/UX Design</b><br/>
 User-centered design · Wireframing & Prototyping (Figma) ·
 Visual design · Typography · Color theory · Usability basics
+<br/><br/>
+
+💻 <div align="center">
+
+<!-- UI/UX & Frontend -->
+<img src="https://skillicons.dev/icons?i=figma,html,css,tailwind,bootstrap,javascript,react,vue" />
+<br/>
+<b>UI/UX & Frontend</b><br/>
+Figma · HTML · CSS · JavaScript · Tailwind CSS · Bootstrap · React · Vue
 
 <br/><br/>
 
-💻 <b>Frontend Development</b><br/>
-HTML · CSS · JavaScript · Tailwind CSS · Bootstrap ·
-React · Vue · Nuxt.js
+<!-- Backend -->
+<img src="https://skillicons.dev/icons?i=php,laravel,mysql" />
+<br/>
+<b>Backend</b><br/>
+PHP · Laravel · MySQL
+
+<br/><br/>
+
+<!-- Mobile (Basic) -->
+<img src="https://skillicons.dev/icons?i=react,flutter" />
+<br/>
+<b>Mobile (Basic)</b><br/>
+React Native · Flutter
+
+<br/><br/>
+
+<!-- Tools -->
+<img src="https://skillicons.dev/icons?i=vscode,git,github" />
+<br/>
+<b>Tools</b><br/>
+VS Code · Git · GitHub
+
+</div>
+
 
 <br/><br/>
 
