@@ -113,11 +113,3 @@ Problem-solving · Attention to detail · Teamwork · Communication · Continuou
 
 <br/>
 <hr/>
-
-<!-- Optional CSS hover motion -->
-<style>
-  img:hover {
-    transform: scale(1.2);
-    transition: transform 0.3s ease;
-  }
-</style>
